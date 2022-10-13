@@ -1,0 +1,25 @@
+/* style.css */
+
+body {
+    font-family: "Verdana", San Serif;
+    text-align:center;
+}
+
+h1 {
+    background-color: #3cdbff;
+    color: #000000;
+    /* 1 pixel white shadow to left, top, right, and bottom */
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+
+h3 {
+    background-color: #eeeeee;
+}
+
+p.subsection {
+    font-weight: bold; 
+}
+
+li {
+    text-align: left;
+}
